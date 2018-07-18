@@ -56,9 +56,9 @@ ki3MID = ki3.profile.mid
 ki4MID = ki4.profile.mid
 
 Bots = [arifMID,kiMID,ki2MID,ki3MID,ki4MID]
-creator = ["u65224f4e8812136f01b25275a54b5aef","u92e4326146a0bf296ca15846aa2a25f6"]
-Owner = ["u65224f4e8812136f01b25275a54b5aef"]
-admin = ["u65224f4e8812136f01b25275a54b5aef"]
+creator = ["u61a9b5ce8de3eb51a859410c9834e5c8","u9f09cfcb17d037e2936b751bd9d40ead"]
+Owner = ["u61a9b5ce8de3eb51a859410c9834e5c8"]
+admin = ["u792478ad6547c046425b6841c1c9a589"]
 
 arifProfile = arif.getProfile()
 kiProfile = ki.getProfile()
@@ -139,7 +139,7 @@ def sendMessageWithMention(to, mid):
         
 def helpmessage():
     helpMessage = "╭───────────────────" + "\n" + \
-                  "│✒♠✳▪ ARIF_MH▪✳♠" + "\n" + \
+                  "│✒♠✳▪ sepriche▪✳♠" + "\n" + \
                   "│" + "\n" + \
                   "│✒──✪〔 Help Message 〕✪──" + "\n" + \
                   "│" + "\n" + \
@@ -237,7 +237,7 @@ def helpmessage():
                   "│▪➤JoinAll" + "\n" + \
                   "│▪➤ByeAll" + "\n" + \
                   "│" + "\n" + \
-                  "╰─〔 Credits By: ©arifistifik™  〕"
+                  "╰─〔 Credits By: ©sepriche™  〕"
     return helpMessage
     
 def helptexttospeech():
